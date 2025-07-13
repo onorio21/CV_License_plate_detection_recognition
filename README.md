@@ -2,4 +2,4 @@
 License Plate Detection and Recognition project for Computer Vision course Sapienza
 
 # Dataset
-The used dataset is available at https://github.com/detectRecog/CCPD
+The used dataset is available at [CCPD dataset](https://github.com/detectRecog/CCPD)
