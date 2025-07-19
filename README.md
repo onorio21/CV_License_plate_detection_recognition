@@ -27,8 +27,8 @@ deliver a robust and e!cient system for plates recognition and reconstruction su
 scenarios.
 
 # Authors
-[Onorio Iacobelli](https://github.com/onorio21)
-[Alessandro Rocchi](https://github.com/TheXbomber)
+-[Onorio Iacobelli](https://github.com/onorio21)
+-[Alessandro Rocchi](https://github.com/TheXbomber)
 
 # References
 1. Tao, L., Hong, S., Lin, Y., Chen, Y., He, P. and Tie, Z. (2024). A Real-Time License Plate Detection and
