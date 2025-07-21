@@ -41,3 +41,7 @@ ber Plate Recognition using Machine Learning : An In-Depth Analysis of Machine L
 Automatic Number Plate Recognition: Opportunities and Limitations,” 2023 International Conference on
 Computational Intelligence, Communication Technology and Networking (CICTN), Ghaziabad, India, 2023,
 pp. 527-532
+4. https://huggingface.co/keremberke/yolov5m-license-plate
+5. https://github.com/PaddlePaddle/PaddleOCR
+
+
