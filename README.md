@@ -26,6 +26,9 @@ e”ectively treating the task as a sequence prediction problem. The integration
 deliver a robust and e!cient system for plates recognition and reconstruction suitable for deployment in real-world
 scenarios.
 
+# Instructions
+Run the License_Plate_Recongition.ipynb in Colab or Jupyter and follow it
+
 # Authors
 - [Onorio Iacobelli](https://github.com/onorio21)
 - [Alessandro Rocchi](https://github.com/TheXbomber)
